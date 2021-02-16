@@ -1,0 +1,12 @@
+a=5;
+b=3+2j;
+c=a+b;
+[mu,dv]=a*b,a/b;
+clc
+who
+whos
+save
+load
+clear
+clear all
+close all
